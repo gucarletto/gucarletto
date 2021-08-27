@@ -5,6 +5,16 @@
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gucarletto@gmail.com)](mailto:gucarletto@gmail.com)
 ### Senior Software Developer @ ???
 
+## ❄️ My Background:
+
+💻 Been working as a back-end developer since 2011, turning to front-end and devops too since 2017
+
+🚀 I have created an entire startup on my own (https://fidegg.com.br/)
+
+🎮 Gamer (git blame CSGO)
+
+⚽ Football (or should I say soccer? 🤔) Fanatic (git blame Corinthians, Liverpool and Barcelona)
+
 ## A little more about me:
 
 ```typescript
@@ -38,13 +48,5 @@ class Gustavo extends Human {
   };
 }
 ```
-
-
----
-## ❄️ My Background:
-
-Been working as a back-end developer since 2011
-Been (trying) to do some things on front-end since 2017
-I have created an entire startup on my own (https://fidegg.com.br/)
 
 ![ViewCount](https://komarev.com/ghpvc/?username=jarielfloriano&color=32C955)

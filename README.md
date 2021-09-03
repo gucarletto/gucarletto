@@ -35,11 +35,11 @@ class Gustavo extends Human {
   ];
   
   technologies: {
-    JavaScript:     ["Typescript", "Node.js", "Express", "Adonis", "NestJS (In Progress)", "React", "Vue", "NextJS (In Progress)"];
+    JavaScript:     ["Typescript", "Node.js", "Express", "Adonis", "NestJS", "React", "Vue", "NextJS (In Progress), Prisma, TypeORM, Knex"];
     GoLang:         ["GinGonic (In Progress)"];
     PHP:            ["Laravel", "Slim"];
     Python:         ["Django", "Flask", "Pandas"];
-    APIs:           ["REST", "GraphQL (In Progress)"];
+    APIs:           ["REST", "GraphQL", "SOAP"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB"];
     Other:          ["Elasticsearch", "Data Science Basics", "Java and C++ from College"];
     Events:         ["RabbitMQ"];

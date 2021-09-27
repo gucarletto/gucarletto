@@ -48,5 +48,3 @@ class Gustavo extends Human {
   };
 }
 ```
-
-![ViewCount](https://komarev.com/ghpvc/?username=gucarletto&color=32C955)

@@ -38,6 +38,7 @@ class Gustavo extends Human {
     JavaScript:     ["Typescript", "Node.js", "Express", "Adonis", "NestJS", "React", "Vue", "NextJS (In Progress), Prisma, TypeORM, Knex"];
     GoLang:         ["GinGonic, GORM"];
     PHP:            ["Laravel", "Slim"];
+    Elixir:         ["Phoenix", "Absinthe"];
     Python:         ["Django", "Flask", "Pandas"];
     APIs:           ["REST", "GraphQL", "SOAP"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB"];

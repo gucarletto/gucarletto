@@ -42,9 +42,10 @@ class Gustavo extends Human {
     Python:         ["Django", "Flask", "Pandas"];
     APIs:           ["REST", "GraphQL", "SOAP"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB"];
-    Other:          ["Elasticsearch", "Data Science Basics", "Java and C++ from College"];
+    Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform (In Progress)"]
     Events:         ["RabbitMQ"];
-    CloudComputing: ["AWS", "Docker", "Kubernetes (In Progress)", "Terraform (In Progress)"];
+    CloudComputing: ["AWS"];
+    Other:          ["Elasticsearch", "Data Science Basics", "Java and C++ from College"];
     Design:         ["Bootstrap", "Material-UI", "Figma"];
   };
 }

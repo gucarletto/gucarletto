@@ -11,9 +11,9 @@
 
 🚀 I have created an entire startup on my own (https://fidegg.com.br/)
 
-🎮 Gamer (git blame CSGO)
+🎮 Gamer (git blame Valorant)
 
-⚽ Football (or should I say soccer? 🤔) Fanatic (git blame Corinthians, Liverpool and Barcelona)
+⚽ Football (or should I say soccer? 🤔) fanatic (git blame Corinthians, Liverpool and Barcelona)
 
 ## A little more about me:
 
@@ -37,12 +37,12 @@ class Gustavo extends Human {
   technologies: {
     JavaScript:     ["Typescript", "Node.js", "Express", "Adonis", "NestJS", "React", "Vue", "NextJS, Prisma, TypeORM, Knex"];
     GoLang:         ["GinGonic", "Fiber", "GORM"];
-    PHP:            ["Laravel", "Slim"];
+    PHP:            ["Laravel", "Slim", "Doctrine"];
     Elixir:         ["Phoenix", "Absinthe"];
     Python:         ["Django", "Flask", "Pandas"];
     APIs:           ["REST", "GraphQL", "SOAP"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB"];
-    Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform (In Progress)"]
+    Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform"]
     Events:         ["RabbitMQ"];
     CloudComputing: ["AWS"];
     Other:          ["Elasticsearch", "Data Science Basics", "Java and C++ from College"];

@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gucarletto/)](https://www.linkedin.com/in/gucarletto/)
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gucarletto@gmail.com)](mailto:gucarletto@gmail.com)
-### Senior Software Developer @ Zup
+### Senior Software Developer @ Andela
 
 ## ❄️ My Background:
 
@@ -38,10 +38,8 @@ class Gustavo extends Human {
     JavaScript:     ["Typescript", "Node.js", "Express", "Adonis", "NestJS", "React", "Vue", "NextJS, Prisma, TypeORM, Knex"];
     GoLang:         ["GinGonic", "Fiber", "GORM"];
     PHP:            ["Laravel", "Slim", "Doctrine"];
-    Elixir:         ["Phoenix", "Absinthe"];
-    Python:         ["Django", "Flask", "Pandas"];
     APIs:           ["REST", "GraphQL", "SOAP"];
-    Databases:      ["PosgreSQL", "MySQL", "MongoDB"];
+    Databases:      ["PosgreSQL", "MySQL", "MongoDB", "DynamoDB"];
     Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform"]
     Events:         ["RabbitMQ"];
     CloudComputing: ["AWS"];

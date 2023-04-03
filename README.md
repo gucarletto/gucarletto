@@ -9,11 +9,10 @@
 
 💻 Been working as a back-end developer since 2011, turning to front-end and devops too since 2017
 
-🚀 I have created an entire startup on my own (https://fidegg.com.br/)
+🚀 I had a startup once (https://fidegg.com.br/)
 
-🎮 Gamer (git blame Valorant)
+⚽🎮🏍️ 3 things I enjoy (at the moment)
 
-⚽ Football (or should I say soccer? 🤔) fanatic (git blame Corinthians, Liverpool and Barcelona)
 
 ## A little more about me:
 

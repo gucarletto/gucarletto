@@ -3,11 +3,11 @@
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gucarletto/)](https://www.linkedin.com/in/gucarletto/)
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gucarletto@gmail.com)](mailto:gucarletto@gmail.com)
-### Senior Software Developer @ Andela
+### Senior Software Engineer @ Andela
 
 ## ❄️ My Background:
 
-💻 Been working as a back-end developer since 2011, turning to front-end and devops too since 2017
+💻 Been working as a back-end engineer since 2011, turning to front-end and devops too since 2017
 
 🚀 I had a startup once (https://fidegg.com.br/)
 

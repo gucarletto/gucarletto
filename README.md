@@ -31,6 +31,7 @@ class Gustavo extends Human {
     "Portuguese",
     "English",
     "Spanish",
+    "Italian",
   ];
   
   technologies: {

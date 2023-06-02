@@ -40,7 +40,7 @@ class Gustavo extends Human {
     PHP:            ["Laravel", "Slim", "Doctrine"];
     APIs:           ["REST", "GraphQL", "SOAP"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB", "DynamoDB"];
-    Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform"]
+    Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform", "Pulumi", "Github Actions"]
     Events:         ["RabbitMQ"];
     CloudComputing: ["AWS"];
     Other:          ["Elasticsearch", "Data Science Basics", "Java and C++ from College"];

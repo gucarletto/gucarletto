@@ -7,9 +7,9 @@
 
 ## ❄️ My Background:
 
-💻 Been working as a back-end engineer since 2011, turning to front-end and devops too since 2017
+💻 Been working as a software engineer since 2011, turning to front-end and devops too since 2017
 
-🚀 I had a startup once (https://fidegg.com.br/)
+🏢 Already worked in all company sizes possible, from working alone at my own startup to work at the biggest financial insitution from latin america
 
 ⚽🎮🏍️ 3 things I enjoy (at the moment)
 

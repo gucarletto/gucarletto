@@ -7,7 +7,7 @@
 
 ## ❄️ My Background:
 
-💻 Been working as a software engineer since 2011, turning to front-end and devops too since 2017
+💻 I've been working as a backend software engineer since 2011, turning to front-end and devops too since 2017
 
 🏢 Already worked in all company sizes possible, from working alone at my own startup to work at the biggest financial insitution from latin america
 

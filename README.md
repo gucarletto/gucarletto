@@ -24,7 +24,7 @@ class Gustavo extends Human {
   constructor() {
     super();
     this.name = "Gustavo Carletto";
-    this.nationality = "Brazilian";
+    this.nationality = ["Brazilian", "Italian"];
   }
   
   languages: Array<string> = [
@@ -37,8 +37,8 @@ class Gustavo extends Human {
   technologies: {
     JavaScript:     ["Typescript", "Node.js", "Express", "Adonis", "NestJS", "React", "Vue", "NextJS, Prisma, TypeORM, Knex"];
     GoLang:         ["GinGonic", "Fiber", "GORM"];
-    PHP:            ["Laravel", "Slim", "Doctrine"];
-    APIs:           ["REST", "GraphQL", "SOAP"];
+    Python:         ["Flask", "SQLAlchemy", "Pytest"];
+    APIs:           ["REST", "GraphQL"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB", "DynamoDB"];
     Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform", "Pulumi", "Github Actions"]
     Events:         ["RabbitMQ"];

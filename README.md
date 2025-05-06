@@ -41,7 +41,7 @@ class Gustavo extends Human {
     APIs:           ["REST", "GraphQL"];
     Databases:      ["PosgreSQL", "MySQL", "MongoDB", "DynamoDB"];
     Devops:         ["Docker", "Kubernetes", "Gitlab", "Terraform", "Pulumi", "Github Actions"]
-    Events:         ["RabbitMQ"];
+    Events:         ["RabbitMQ", "Kafka"];
     CloudComputing: ["AWS"];
     Other:          ["Elasticsearch", "Data Science Basics", "Java and C++ from College"];
     Design:         ["Bootstrap", "Material-UI", "Figma"];
